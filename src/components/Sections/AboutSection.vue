@@ -7,15 +7,15 @@ const currentIndex = ref(0);
 
 const slides = ref([
   {
-    src: '/src/assets/images/team.jpg',
+    src: '../src/assets/images/team.jpg',
     alt: 'group-of-people-putting-up-their-fist',
   },
   {
-    src: '/src/assets/images/team2.jpg',
+    src: '../src/assets/images/team2.jpg',
     alt: 'photo-of-people-smiling-and-posing-for-a-picture',
   },
   {
-    src: '/src/assets/images/team3.jpg',
+    src: '../src/assets/images/team3.jpg',
     alt: 'group-of-people-standing-infront-of-blackboard',
   }
 ]);
